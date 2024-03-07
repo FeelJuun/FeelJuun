@@ -1,31 +1,19 @@
 
-Pil Jun
+FeelJun
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-### 👋 Hi there! I'm Pil Jun - a passionate college student exploring the world of code!
+### 👋 Hi! I'm PilJun - a passionate college student exploring the vast universe of coding and creativity!
 
-- 🎓 College Student majoring in [Your Major] at [Your University]
-- 🔭 Currently working on [Your Project]
-- 🌱 Learning [Technologies/Subjects you're learning]
-- 👯 Looking to collaborate on [Types of projects or technologies]
-- 🤔 Seeking help with [Topic or technology]
-- 💬 Ask me about [Topics you're comfortable discussing]
-- 📫 How to reach me: [Your Email or Social Media Links]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting fact about you]
+- :mortar_board: College student
 
-### Languages and Tools:
-![Your Programming Language](https://img.shields.io/badge/-ProgrammingLanguage-333333?style=flat&logo=programminglanguage)
-![Another Tool](https://img.shields.io/badge/-Tool-333333?style=flat&logo=toollogo)
+### Learning Stack:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your LinkedIn URL)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](Your GitHub URL)
-
-<!-- Optional: Any other social media links here -->
-
-### GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### My GitHub Journey:
+![FeelJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeelJun&show_icons=true&theme=radical)
 
 
 <!--
